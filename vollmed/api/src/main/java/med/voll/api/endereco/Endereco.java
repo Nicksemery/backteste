@@ -32,6 +32,4 @@ public class Endereco {
         this.complemento = dados.complemento();
     }
 
-    public Endereco(@NotNull @Valid Endereco endereco) {
-    }
 }
